@@ -1,16 +1,19 @@
-### Hi there 👋
+ 
+<h1 align="center"> Hello Traveller, Welcome To My World  </h1>
 
-<!--
-**r0b0tG4nG/r0b0tG4nG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> I'm Just A Regular IT Guy.🤫 </h2>
 
-Here are some ideas to get you started:
+- 🤝 Be Good, Do Good & Stay Good.
+- 🛠️ Casual **CTF Player** & A Weird Fella 🙄 
+- 🏋🏻 **Never Underestimate The Determination of a Kid Who is Time-rich & Cash-poor :)**
+- 🥅 Making The **World A Better Place** 🤗 
+- 🤡 Oops 🤦‍♂️ I've Said Alot...🤭 Enjoy Your Journey 🥳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> You Might Want To Check These.🤫 </h3>
+
+<h4> Hey! Checkout my Blog:</h4><a href="https://r0b0tg4ng.github.io/">https://r0b0tg4ng.github.io/</a><br>
+🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
+<h4> How About Youtube?</h4><a href="https://www.youtube.com/channel/UCSY-pfwuYspZFlRsO7vBfIQ/">https://www.youtube.com/channel/UCSY-pfwuYspZFlRsO7vBfIQ/</a><br>
+🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
+<h4> Hangout on Twitter:</h4><a href="https://twitter.com/r0b0tg4ng/">https://twitter.com/r0b0tg4ng</a><br>
+🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
