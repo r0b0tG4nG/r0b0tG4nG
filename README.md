@@ -3,11 +3,11 @@
 
 <h2 align="center"> I'm Just A Regular IT Guy.🤫 </h2>
 
-- 🤝 **Be Good, Do Good & Stay Good.**
-- 🛠️ Casual **CTF Player** & A Weird Fella 🙄 
+- 🛠️ **I am a Casual CTF Player & A Weird Fella 🙄** 
+- 🥅 **Success Takes Time. Stay Focused & Be Patient** 🤗 
 - 🏋🏻 **Just Keep Getting Better. Little By Little, Day By Day... 🥳**
-- 🥅 Making The **World A Better Place** 🤗 
-- 🤡 Oops 🤦‍♂️ I've Said Alot...🤭 Enjoy Your Journey 🥳
+- 🤝 **Be Kind, Be Genuine, Be Thoughtful But Most of All, Be thankful.. ❤️**
+- 🤡 **Oops 🤦‍♂️ I've Said Alot & Taken Much of Your Time... 🤭 Enjoy Your Journey Traveller...🥳
 
 <h3 align="center"> You Might Want To Check These.🤫 </h3>
 
