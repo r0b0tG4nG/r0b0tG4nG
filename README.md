@@ -11,13 +11,6 @@
 
 <h3 align="center"> You Might Want To Check These.🤫 </h3>
 
-<h4> Hey! Checkout my Blog:</h4><a href="https://r0b0tg4ng.github.io/">https://r0b0tg4ng.github.io/</a><br>
-🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
-<h4> How About Youtube?</h4><a href="https://www.youtube.com/channel/UCSY-pfwuYspZFlRsO7vBfIQ/">https://www.youtube.com/channel/UCSY-pfwuYspZFlRsO7vBfIQ/</a><br>
-🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
-<h4> Hangout on Twitter:</h4><a href="https://twitter.com/r0b0tg4ng/">https://twitter.com/r0b0tg4ng</a><br>
-🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
