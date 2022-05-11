@@ -17,3 +17,15 @@
 🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
 <h4> Hangout on Twitter:</h4><a href="https://twitter.com/r0b0tg4ng/">https://twitter.com/r0b0tg4ng</a><br>
 🚴🏻‍♀️---------------------------------------------------------------------------🚵🏻‍♀️
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCSY-pfwuYspZFlRsO7vBfIQ/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/r0b0tg4ng/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
