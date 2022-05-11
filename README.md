@@ -7,7 +7,7 @@
 - 🥅 **Success Takes Time. Stay Focused & Be Patient** 🤗 
 - 🏋🏻 **Just Keep Getting Better. Little By Little, Day By Day... 🥳**
 - 🤝 **Be Kind, Be Genuine, Be Thoughtful But Most of All, Be thankful.. ❤️**
-- 🤡 **Oops 🤦‍♂️ I've Said Alot & Taken Much of Your Time... 🤭 Enjoy Your Journey Traveller...🥳
+- 🤡 **Oops 🤦‍♂️ I've Said Alot & Taken Much of Your Time... 🤭 Enjoy Your Journey Traveller...🥳**
 
 <h3 align="center"> You Might Want To Check These.🤫 </h3>
 
