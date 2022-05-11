@@ -5,7 +5,7 @@
 
 - 🤝 Be Good, Do Good & Stay Good.
 - 🛠️ Casual **CTF Player** & A Weird Fella 🙄 
-- 🏋🏻 **Never Underestimate The Determination of a Kid Who is Time-rich & Cash-poor :)**
+- 🏋🏻 **Never Underestimate The Determination of a Kid Who is Time-rich & Cash-poor 🥳 **
 - 🥅 Making The **World A Better Place** 🤗 
 - 🤡 Oops 🤦‍♂️ I've Said Alot...🤭 Enjoy Your Journey 🥳
 
