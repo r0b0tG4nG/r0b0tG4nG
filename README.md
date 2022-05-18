@@ -4,6 +4,8 @@
 <h2 align="center"> I'm Just A Regular IT Guy.🤫 </h2>
 
 - 🛠️ **A Casual CTF Player🤦🏽‍♂️ & A Weird Fella 🙄** 
+
+### Hmm Remember This.....
 - 🥅 **Success Takes Time. Stay Focused & Be Patient** 🤗 
 - 🏋🏻 **Just Keep Getting Better. Little By Little, Day By Day... 🥳**
 - 🤝 **Be Kind, Be Genuine, Be Thoughtful But Most of All, Be thankful.. ❤️**
